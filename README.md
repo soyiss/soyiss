@@ -45,6 +45,8 @@
 
 <br><br>
 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoyiss%2Fhit-counter&count_bg=%23063CFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits%21&edge_flat=false"/></a>
+
 <img src="https://github-readme-stats-ivory-three.vercel.app/api/top-langs/?username=soyiss&layout=compact" height="170">
 &nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-stats-ivory-three.vercel.app/api?username=soyiss&show_icons=true" height="170">
